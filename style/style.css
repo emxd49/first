@@ -3,10 +3,6 @@
     width: 60%; 
     margin-left: 7%;
 }
-footer {
-    bottom: 0%;
-    position: absolute;
-}
 
 body {
     height: 100%;
@@ -21,4 +17,8 @@ body {
 
 h1[id] {
     color: red;
+}
+
+img {
+    width: 50%;
 }
