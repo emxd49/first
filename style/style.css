@@ -1,7 +1,7 @@
 #ArticleSection {
     text-align: justify; 
     width: 60%; 
-    margin-left: 7%;
+    margin: 0 auto;
 }
 
 body {
@@ -12,7 +12,7 @@ body {
 .article {
     text-align: justify; 
     width: 60%; 
-    margin-left: 7%;
+    margin: 2% auto;
 }
 
 h1[id] {
@@ -21,4 +21,9 @@ h1[id] {
 
 img {
     width: 50%;
+}
+
+footer {
+    margin: 0 auto;
+    width: 60%;
 }
